@@ -1,4 +1,5 @@
 # string1 and string2 should be the same length.
+oefening
 def hamming_distance(string1, string2): 
     # Start with a distance of zero, and count up
     distance = 0
